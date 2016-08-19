@@ -61,8 +61,8 @@ def merge(img1, img2, weight=0.5):
 def tween_images(from_image, to_image, frames=5):
     assert frames >= 2
     img_list = [from_image]
-    for i in range(max(0, frames - 2)):
-        img_list.append(merge(from_image, to_image, i / frames))
+    for i in range(max(0, frames - 1)):
+        img_list.append(merge(from_image, to_image, (i + 1) / (frames - 1)))
     img_list.append(to_image)
     return img_list
 
