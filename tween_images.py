@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Provided under the MIT License
+# Copyright (c) 2016 Ben Wiederhake
 
 from PIL import Image
 from math import floor, ceil
