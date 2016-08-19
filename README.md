@@ -14,6 +14,14 @@ e.g.: seam carving, inpainting, outpainting, etc.
 Also, it's a really stupid and slow implementation.  You really don't
 want to use it for anything.
 
+## EXAMPLE
+
+![0 of 5](https://github.com/BenWiederhake/tween_images/raw/master/0_of_5_-_kitten1_kitten2.jpg)
+![1 of 5](https://github.com/BenWiederhake/tween_images/raw/master/1_of_5_-_kitten1_kitten2.jpg)
+![2 of 5](https://github.com/BenWiederhake/tween_images/raw/master/2_of_5_-_kitten1_kitten2.jpg)
+![3 of 5](https://github.com/BenWiederhake/tween_images/raw/master/3_of_5_-_kitten1_kitten2.jpg)
+![4 of 5](https://github.com/BenWiederhake/tween_images/raw/master/4_of_5_-_kitten1_kitten2.jpg)
+
 ## COPYRIGHT OF THE EXAMPLES
 
 Sources:
