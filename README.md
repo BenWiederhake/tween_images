@@ -14,6 +14,13 @@ e.g.: seam carving, inpainting, outpainting, etc.
 Also, it's a really stupid and slow implementation.  You really don't
 want to use it for anything.
 
+## COPYRIGHT OF THE EXAMPLES
+
+Sources:
+- [kitten1.jpg](https://pixabay.com/en/kitty-meng-chong-cute-704689/) (CC0)
+- [kitten2.jpg](https://pixabay.com/en/kitty-cat-kitten-pet-animal-cute-551554/) (CC0)
+Both images were resized to a width of 256 pixels for convenience.
+
 ## LICENSE
 
 This code is really stupid and slow.  You really don't wanna use it in
